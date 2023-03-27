@@ -3,9 +3,11 @@
 This Decentralized Application Boilerplate is built with [React](https://fr.reactjs.org/) + [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) + [Chakra-ui](https://chakra-ui.com/).
 
 Including features like:
+- Fully functional Nextjs App
 - connect wallet
-- show wallet balance
+- show account balance
 - sign message on-chain
+- Switch between chains (Ethereum and the Layer 2s)
 - etc.
 
 ## Getting Started
