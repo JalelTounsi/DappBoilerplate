@@ -44,5 +44,7 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## sponsor this open source project
 
 if you want help maintain and enrich this project
+
 BTC address: bc1qmluclj3nrcsgvk2kee8jhrgygldwh3jwv50emg
+
 ETH/ERC20 address: 0x6827b6cdaAd17ECe5D6Fd2C47a4d752931e66Aa6
