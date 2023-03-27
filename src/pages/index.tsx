@@ -8,12 +8,10 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="">RainbowKit</a> + <a href="">wagmi</a> +{" "}
-          <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://github.com/JalelTounsi/DappBoilerplate">DappBoilerplate</a>
         </h1>
         <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.tsx</code>
+          Connect your wallet and start playing around
         </p>
       </main>
     </div>
