@@ -19,7 +19,7 @@ export const Logo = (props: any) => {
           objectFit={"cover"}
           src={"/logo.png"}
         />
-        <Text as="kbd">Borgdena</Text>
+        <Text as="kbd">dappboilerplate</Text>
       </>
     </HStack>
   );
