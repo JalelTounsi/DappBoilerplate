@@ -1,7 +1,7 @@
 import { ThemingProps } from '@chakra-ui/react'
 import { mainnet, goerli, sepolia, polygon, optimism, arbitrum } from '@wagmi/chains'
 
-export const SITE_NAME = 'Dappboilerplate'
+export const SITE_NAME = 'DappBoilerplate'
 export const SITE_DESCRIPTION = 'Decentralized Application Template'
 export const SITE_URL = 'https://dappboilerplate.vercel.app'
 
