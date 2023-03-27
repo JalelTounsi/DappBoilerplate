@@ -1,6 +1,6 @@
 ## DappBoilerplate
 
-This is a Decentralized Application Boilerplate built with [React](https://fr.reactjs.org/) + [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) + [Chakra-ui](https://chakra-ui.com/).
+This Decentralized Application Boilerplate is built with [React](https://fr.reactjs.org/) + [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) + [Chakra-ui](https://chakra-ui.com/).
 
 Including features like:
 - connect wallet
