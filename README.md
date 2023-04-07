@@ -19,7 +19,7 @@ First,
 git clone https://github.com/JalelTounsi/DappBoilerplate.git
 ```
 
-> install your 👷‍ dependencies:
+> install your dependencies:
 
 ```bash
 cd dappBoilerplate
