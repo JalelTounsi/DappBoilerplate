@@ -12,12 +12,22 @@ Including features like:
 
 ## Getting Started
 
-First, run the development server:
+First, 
+> clone/fork DappBoilerplate:
 
 ```bash
-npm run dev
+git clone https://github.com/JalelTounsi/DappBoilerplate.git
 ```
-or
+
+> install your 👷‍ dependencies:
+
+```bash
+cd dappBoilerplate
+yarn install
+```
+
+> run the development server:
+
 ```bash
 yarn dev
 ```
